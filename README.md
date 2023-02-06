@@ -13,7 +13,7 @@ Hello and welcome to my cartography portfolio! Throughout this document, you can
 I created **A Bird’s-Eye View of MacLeish Field Station** as part of an atlas of Smith College’s Ada and Archibald MacLeish Field Station, a wonderful educational and recreational landscape located near the college. With this map, I use playful and visually appealing design elements to locate the five birdhouses on the field station property. I also incorporate narrative cartographic principles into this map by centering the acknowledgements section and drawing attention to all of the near and distant collaborators whose prior work made this piece possible.
 
 <p align="center">
-  <img src="macleish_birdhouses.png" width=50% height=50%/>
+  <img src="macleish_birdhouses.png" width=70% height=70%/>
 </p>
 
 In my **New Jersey Shopping Malls** thematic map, I calculate and visualize the square footage of shopping malls per capita in each New Jersey county. As a New Jersey resident, I was interested in exploring this somewhat absurd topic due to the complicated history and pervasive presence of shopping malls in the New Jersey cultural psyche. I created this map using data from Wikipedia, and its minimalist style reflects my ultimate goal of uploading it to Wikipedia as well.
